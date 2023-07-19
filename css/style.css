@@ -2154,7 +2154,7 @@ img {
     top: 0;
     z-index: 1;
     background-size: cover;
-    background-position: center;
+    background-position: top;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
